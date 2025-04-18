@@ -12,6 +12,7 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "prettier": "^3.3.1",
     "vite": "^5.1.6"
   }
